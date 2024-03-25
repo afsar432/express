@@ -55,6 +55,8 @@ NOTE: Use the `sh` code block to make the shell command display properly on
 the website.
 
 ## Basic use
+Shraddha Khapra
+Co-Founder of Apna College
 
 - Provide a general description of how to use the module with code sample.
   Include any important caveats or restrictions.
